@@ -1,0 +1,16 @@
+{
+  "name": "jaya-quiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "questions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "questions": "0.0.6",
+    "readline-sync": "^1.4.10"
+  }
+}
